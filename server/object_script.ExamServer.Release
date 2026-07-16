@@ -1,0 +1,15 @@
+release/DatabaseManager.o
+release/HttpClient.o
+release/JsonHelper.o
+release/User.o
+release/Question.o
+release/ExamRecord.o
+release/main.o
+release/ExamServer.o
+release/ExamTcpServer.o
+release/RequestHandler.o
+release/qrc_resources.o
+release/moc_DatabaseManager.o
+release/moc_HttpClient.o
+release/moc_ExamServer.o
+release/moc_ExamTcpServer.o
