@@ -1,0 +1,5 @@
+[2026-07-15 14:54:38] username=student selectedRole=0 serverRole=0 response={"data":{"id":3,"real_name":"小明","role":0,"role_string":"考生","token":"3","username":"student"},"message":"登录成功","success":true}
+[2026-07-15 15:11:25] username=student selectedRole=0 serverRole=0 response={"data":{"id":3,"real_name":"小明","role":0,"role_string":"考生","token":"3","username":"student"},"message":"登录成功","success":true}
+[2026-07-15 15:12:18] username=student selectedRole=0 serverRole=0 response={"data":{"id":3,"real_name":"小明","role":0,"role_string":"考生","token":"3","username":"student"},"message":"登录成功","success":true}
+[2026-07-15 15:15:37] username=admin selectedRole=2 serverRole=2 response={"data":{"id":1,"real_name":"系统管理员","role":2,"role_string":"管理员","token":"1","username":"admin"},"message":"登录成功","success":true}
+[2026-07-15 16:39:13] username=student selectedRole=0 serverRole=0 response={"data":{"id":3,"real_name":"小明","role":0,"role_string":"考生","token":"3","username":"student"},"message":"登录成功","success":true}
