@@ -1,0 +1,15 @@
+debug/DatabaseManager.o
+debug/HttpClient.o
+debug/JsonHelper.o
+debug/User.o
+debug/Question.o
+debug/ExamRecord.o
+debug/main.o
+debug/ExamServer.o
+debug/ExamTcpServer.o
+debug/RequestHandler.o
+debug/qrc_resources.o
+debug/moc_DatabaseManager.o
+debug/moc_HttpClient.o
+debug/moc_ExamServer.o
+debug/moc_ExamTcpServer.o
